@@ -1,0 +1,412 @@
+@font-face {
+  font-family: "ChubGothic";
+  src: url("../assets/fonts/chubgothic.ttf");
+}
+
+@font-face {
+  font-family: "AgencyFB";
+  src: url("../assets/fonts/AGENCYR.TTF");
+}
+
+#mainNav {
+  background-color: rgb(0, 0, 0, 0.65);
+}
+
+#mainNav .navbar-toggler {
+  border: none;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-family: "ChubGothic";
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 4.2px;
+  color: #fff;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active,
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #fff;
+  text-shadow: 0 0 7px #44fae7a1, 0 0 10px #44fae7a1, 0 0 21px #44fae7a1,
+    0 0 42px #44fae7a1, 0 0 82px #44fae7a1;
+}
+
+header.masthead .masthead-heading {
+  font-family: ChubGothic;
+  font-size: 50px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+}
+
+.page-section h2.section-heading {
+  font-family: ChubGothic;
+  font-size: 56px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 1.19px;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+.page-section h3.section-heading {
+  font-family: ChubGothic;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 1.19px;
+  color: #fff;
+}
+
+.page-section h4.section-subtitle {
+  font-family: ChubGothic;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 1.19px;
+  color: #fff;
+}
+
+.page-section p.section-text {
+  font-family: ChubGothic;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #fff;
+}
+
+.text-glow {
+  text-shadow: 0 0 7px #44fae7a1, 0 0 10px #44fae7a1, 0 0 21px #44fae7a1,
+    0 0 42px #44fae7a1, 0 0 82px #44fae7a1;
+}
+
+.page-section h2.section-heading.dark {
+  color: #000;
+  font-weight: bold;
+}
+
+.page-section .section-crow {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.page-section .section-crow img {
+  width: 100%;
+}
+
+#about {
+  position: relative;
+}
+
+#about .row:nth-child(2) .section-crow {
+  position: relative;
+  z-index: 1;
+  top: 96px;
+}
+
+#about .limited {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 250px;
+  background-image: url("../assets/img/ac-dark-grey-black-slate-texture-with-high-resolution-background-natural-black-stone-wall.png");
+}
+
+#about .limited .limited-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  height: 100%;
+}
+
+#about .limited .limited-text h2 {
+  font-family: ChubGothic;
+  font-size: 50px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 1.19px;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+#about .limited .limited-text h4 {
+  margin-bottom: 0;
+}
+
+#mainNav.navbar-shrink {
+  background-color: rgb(0, 0, 0, 0.65);
+}
+
+.masthead {
+  position: relative;
+}
+
+.masthead .container img {
+  position: absolute;
+  width: 400px;
+  bottom: 0;
+  left: 80px;
+}
+
+.page-section {
+  background-color: rgb(31, 31, 31);
+}
+
+#roadmap .timeline > li .timeline-image {
+  border-color: #000;
+}
+
+#roadmap .timeline:before {
+  background-color: black;
+}
+
+#roadmap .timeline-heading {
+  text-align: left;
+  color: black;
+  font-size: 130px;
+  font-family: AgencyFB;
+  font-weight: bold;
+}
+
+#roadmap .timeline-body p {
+  font-family: ChubGothic;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #fff;
+}
+
+#roadmap .timeline .timeline-side-image {
+  float: right;
+  width: 560px;
+}
+
+#roadmap .timeline .timeline-side-image img {
+  width: 100%;
+}
+
+#faq .accordion .accordion-button {
+  background-color: rgb(31, 31, 31);
+  font-family: ChubGothic;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #fff;
+}
+
+#faq .accordion .accordion-button:focus {
+  border-color: transparent;
+  box-shadow: none;
+}
+
+#faq .accordion .accordion-button:not(.collapsed)::before {
+  opacity: 0;
+}
+
+#faq .accordion .accordion-button:not(.collapsed)::after {
+  background: #ffffff;
+}
+
+#faq .accordion .accordion-button::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 22px;
+  width: 3px;
+  height: 24px;
+  background: #0d5b95;
+  box-shadow: 0px 4px 6px #000000;
+  transform: translate(0, -50%);
+  transition: all 0.4s ease-in-out;
+}
+
+#faq .accordion .accordion-button::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  width: 24px;
+  height: 3px;
+  background: #0d5b95;
+  box-shadow: 0px 4px 6px #000000;
+  transform: translate(0, -50%);
+  transition: all 0.4s ease-in-out;
+}
+
+#faq .accordion .accordion-item {
+  background-color: rgb(31, 31, 31);
+  border-color: rgb(59, 69, 75);
+}
+
+#faq .accordion .accordion-body {
+  font-family: ChubGothic;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #fff;
+}
+
+.footer {
+  background-color: rgb(31, 31, 31);
+  color: white;
+  position: relative;
+}
+
+.footer div[class^="col"] {
+  position: relative;
+  z-index: 1;
+}
+
+.footer div[class^="col"]:last-child img.logo {
+  width: 400px;
+  padding-top: 50px;
+}
+
+.footer .section-subtitle {
+  font-family: ChubGothic;
+  font-size: 28px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 1.19px;
+  color: #fff;
+}
+
+.footer .social {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 25px;
+  max-width: 300px;
+  margin: auto;
+}
+
+.footer .social img {
+  height: 20px;
+}
+
+.footer .bricks {
+  position: absolute;
+  width: 100%;
+  height: 250px;
+  bottom: 0;
+  background-image: url("../assets/img/ac-black-brick-wall-textured-background.jpg");
+  background-size: cover;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-right: 20px;
+}
+
+.footer .bricks p {
+  font-family: ChubGothic;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+  color: #fff;
+}
+
+@media (min-width: 992px) {
+  #mainNav .container {
+    max-width: 840px;
+  }
+}
+
+#roadmap .container > div:last-child {
+  display: none;
+}
+
+/* Mobile */
+@media (max-width: 991px) {
+  #mainNav .navbar-brand img {
+    height: 3rem;
+  }
+  .masthead .container img {
+    position: unset;
+    width: 220px;
+  }
+
+  header.masthead .masthead-heading {
+    font-size: 36px;
+    margin-top: 20px;
+  }
+
+  .page-section h2.section-heading {
+    font-size: 36px;
+    margin-top: 20px;
+  }
+
+  .page-section p.section-text,
+  .page-section {
+    text-align: center;
+  }
+
+  #about .limited {
+    position: unset;
+  }
+
+  #about .row:nth-child(2) {
+    flex-direction: column-reverse;
+  }
+
+  #about .row:nth-child(2) .section-crow {
+    position: unset;
+  }
+
+  #roadmap .timeline .timeline-side-image {
+    display: none;
+  }
+
+  #roadmap .container > div:last-child {
+    display: block;
+  }
+
+  .footer div[class^="col"]:last-child img.logo {
+    width: 300px;
+  }
+
+  .footer .bricks {
+    height: 500px;
+    bottom: -100px;
+  }
+}
