@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ac-www-temp/static/css/main.8262db7f.css",
-    "main.js": "/ac-www-temp/static/js/main.5a60aa20.js",
+    "main.css": "/ac-www-temp/static/css/main.a3e15a8b.css",
+    "main.js": "/ac-www-temp/static/js/main.92811b5e.js",
     "static/js/787.2bc4133f.chunk.js": "/ac-www-temp/static/js/787.2bc4133f.chunk.js",
     "static/media/crow-v-06.png": "/ac-www-temp/static/media/crow-v-06.4f764e53c5edb20c21b0.png",
     "static/media/ac-modern-futuristic-sci-fi-background.jpg": "/ac-www-temp/static/media/ac-modern-futuristic-sci-fi-background.feb6ee98886a6ef74a99.jpg",
-    "static/media/crow-v-01.png": "/ac-www-temp/static/media/crow-v-01.96d56fe1186c000c4211.png",
+    "static/media/crow-v-01.png": "/ac-www-temp/static/media/crow-v-01.471975fefd2112025a35.png",
     "static/media/ac-logo-white.png": "/ac-www-temp/static/media/ac-logo-white.6bd0fbc9387019e510ec.png",
     "static/media/ac-dark-grey-black-slate-texture-with-high-resolution-background-natural-black-stone-wall.png": "/ac-www-temp/static/media/ac-dark-grey-black-slate-texture-with-high-resolution-background-natural-black-stone-wall.921d56c6fda85a501c6b.png",
-    "static/media/crow-v-02.png": "/ac-www-temp/static/media/crow-v-02.8358abcb4d96c370fb84.png",
     "static/media/ac-black-brick-wall-textured-background.jpg": "/ac-www-temp/static/media/ac-black-brick-wall-textured-background.1a2a0dd4cd499781b67b.jpg",
+    "static/media/crow-v-02.png": "/ac-www-temp/static/media/crow-v-02.e069d7a8400d5d5e1b62.png",
     "static/media/crow-v-05.png": "/ac-www-temp/static/media/crow-v-05.a9699e1deaacc3795760.png",
     "static/media/crow-v-04.png": "/ac-www-temp/static/media/crow-v-04.cceeac5cb7db88abb7f0.png",
     "static/media/ac-logo-initials-gray.png": "/ac-www-temp/static/media/ac-logo-initials-gray.57d06d508637f4268bd1.png",
@@ -23,12 +23,12 @@
     "static/media/TWITER.png": "/ac-www-temp/static/media/TWITER.d6626ad21a2dcadd2016.png",
     "static/media/chubgothic.ttf": "/ac-www-temp/static/media/chubgothic.82eaaabcaf8dcce55154.ttf",
     "index.html": "/ac-www-temp/index.html",
-    "main.8262db7f.css.map": "/ac-www-temp/static/css/main.8262db7f.css.map",
-    "main.5a60aa20.js.map": "/ac-www-temp/static/js/main.5a60aa20.js.map",
+    "main.a3e15a8b.css.map": "/ac-www-temp/static/css/main.a3e15a8b.css.map",
+    "main.92811b5e.js.map": "/ac-www-temp/static/js/main.92811b5e.js.map",
     "787.2bc4133f.chunk.js.map": "/ac-www-temp/static/js/787.2bc4133f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8262db7f.css",
-    "static/js/main.5a60aa20.js"
+    "static/css/main.a3e15a8b.css",
+    "static/js/main.92811b5e.js"
   ]
 }
